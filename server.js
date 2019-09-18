@@ -1,4 +1,4 @@
-var express = require('express')
+var express = require('express'
     sqlite = require('sqlite3'),
     json = require('body-parser').json,
     cors = require('cors')
